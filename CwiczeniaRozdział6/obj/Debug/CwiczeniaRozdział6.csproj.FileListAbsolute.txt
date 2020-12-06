@@ -1,0 +1,7 @@
+E:\UWM\Kod\Programowanie Obiektowe\CwiczeniaRozdział6\bin\Debug\CwiczeniaRozdział6.exe.config
+E:\UWM\Kod\Programowanie Obiektowe\CwiczeniaRozdział6\bin\Debug\CwiczeniaRozdział6.exe
+E:\UWM\Kod\Programowanie Obiektowe\CwiczeniaRozdział6\bin\Debug\CwiczeniaRozdział6.pdb
+E:\UWM\Kod\Programowanie Obiektowe\CwiczeniaRozdział6\obj\Debug\CwiczeniaRozdział6.csprojAssemblyReference.cache
+E:\UWM\Kod\Programowanie Obiektowe\CwiczeniaRozdział6\obj\Debug\CwiczeniaRozdział6.csproj.CoreCompileInputs.cache
+E:\UWM\Kod\Programowanie Obiektowe\CwiczeniaRozdział6\obj\Debug\CwiczeniaRozdział6.exe
+E:\UWM\Kod\Programowanie Obiektowe\CwiczeniaRozdział6\obj\Debug\CwiczeniaRozdział6.pdb
